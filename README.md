@@ -6,7 +6,7 @@ Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,js,ts,react,nextjs,vue,postgres,vercel,sass,tailwind,jest,githubactions)](https://skillicons.dev)
 
 
-### Status
+### Stats
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirotamaki&layout=compact&show_icons=true" />
