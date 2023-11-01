@@ -1,6 +1,7 @@
 # About shirotamaki
 
-Hi there. I'm Shiro Tamaki 👋
+Hi there 👋 
+I'm Shiro Tamaki 😊
 
 ## My Skills
 
