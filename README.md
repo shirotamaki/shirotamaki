@@ -1,12 +1,12 @@
-## About shirotamaki
-Hi there 👋
+# About shirotamaki
 
-### My Skills
+Hi there. I'm Shiro Tamaki 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,rails,js,ts,react,nextjs,vue,postgres,vercel,sass,tailwind,jest,githubactions)](https://skillicons.dev)
+## My Skills
 
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ruby,rails,js,ts,react,nextjs,vue,postgres,vercel,sass,tailwind,jest,githubactions,figma" />
 
-### Stats
+## Stats
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirotamaki&layout=compact&show_icons=true" />
